@@ -364,7 +364,7 @@ CodePilot AI was developed as an academic full-stack project to explore the inte
 
 ## Author
 
-**Sutej Naik**
+**Sharat Naik**
 
 MCA — Master of Computer Applications
 
